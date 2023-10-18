@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Results and Findings](#result-and-findings)
+- [Results and Findings](#results-and-findings)
 
 ### Project Overview
 ---
